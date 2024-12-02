@@ -1,0 +1,374 @@
+name,value
+1Ο ΝΕΚΡΟΤΑΦΕΙΟ,1
+ΑΓΙΟΣ ΕΛΕΥΘΕΡΙΟΣ,2
+ΑΓΙΟΣ ΚΩΝΣΤΑΝΤΙΝΟΣ-ΠΛΑΤΕΙΑ ΒΑΘΗΣ,3
+ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ,4
+ΑΚΑΔΗΜΙΑ ΠΛΑΤΩΝΟΣ,5
+ΑΚΡΟΠΟΛΗ,6
+ΑΜΠΕΛΟΚΗΠΟΙ,7
+ΑΝΩ ΚΥΨΕΛΗ,8
+ΑΝΩ ΠΑΤΗΣΙΑ,9
+ΒΟΤΑΝΙΚΟΣ,10
+ΓΚΑΖΙ,11
+ΓΚΥΖΗ,12
+ΓΟΥΒΑ,13
+ΓΟΥΔΙ,14
+ΕΛΛΗΝΟΡΩΣΩΝ,15
+ΕΜΠΟΡΙΚΟ ΤΡΙΓΩΝΟ-ΠΛΑΚΑ,16
+ΖΑΠΠΕΙΟ,17
+ΘΗΣΕΙΟ,18
+ΙΛΙΣΙΑ,19
+ΚΕΡΑΜΕΙΚΟΣ,20
+ΚΟΛΟΚΥΝΘΟΥ,21
+ΚΟΛΩΝΑΚΙ,22
+ΚΟΛΩΝΟΣ,23
+ΚΟΥΚΑΚΙ-ΜΑΚΡΥΓΙΑΝΝΗ,24
+ΚΥΨΕΛΗ,25
+ΛΥΚΑΒΗΤΤΟΣ,26
+ΜΟΥΣΕΙΟ-ΕΞΑΡΧΕΙΑ-ΝΕΑΠΟΛΗ,27
+ΝΕΑ ΚΥΨΕΛΗ,28
+ΝΕΟΣ ΚΟΣΜΟΣ,29
+ΝΙΡΒΑΝΑ,30
+ΠΑΓΚΡΑΤΙ,31
+ΠΑΤΗΣΙΑ,32
+ΠΕΔΙΟ ΑΡΕΩΣ,33
+ΠΕΝΤΑΓΩΝΟ,34
+ΠΕΤΡΑΛΩΝΑ,35
+ΠΛΑΤΕΙΑ ΑΜΕΡΙΚΗΣ,36
+ΠΛΑΤΕΙΑ ΑΤΤΙΚΗΣ,37
+ΠΟΛΥΓΩΝΟ,38
+ΠΡΟΜΠΟΝΑ,39
+ΡΗΓΙΛΛΗΣ,40
+ΡΙΖΟΥΠΟΛΗ,41
+ΡΟΥΦ,42
+ΣΕΠΟΛΙΑ,43
+ΣΤΑΔΙΟ,44
+ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ,45
+Barstraße,1
+Charlottenburg Nord,1
+Düsseldorfer Straße,1
+Forst Grunewald,1
+Grunewald,1
+Halensee,1
+Heerstrasse,1
+Kantstraße,1
+Kurfürstendamm,1
+Mierendorffplatz,1
+Neue Kantstraße,1
+Otto-Suhr-Allee,1
+Schloß Charlottenburg,1
+Schmargendorf,1
+Volkspark Wilmersdorf,1
+Westend,1
+Wiesbadener Straße,1
+Frankfurter Allee Nord,2
+Frankfurter Allee Süd FK,2
+Karl-Marx-Allee-Nord,2
+Karl-Marx-Allee-Süd,2
+nördliche Luisenstadt,2
+Südliche Friedrichstadt,2
+südliche Luisenstadt,2
+Tempelhofer Vorstadt,2
+Alt-Hohenschönhausen Nord,3
+Alt-Hohenschönhausen Süd,3
+Alt-Lichtenberg,3
+Fennpfuhl,3
+Frankfurter Allee Süd,3
+Friedrichsfelde Nord,3
+Friedrichsfelde Süd,3
+Karlshorst,3
+"Malchow, Wartenberg und Falkenberg",3
+Neu-Hohenschönhausen Nord,3
+Neu-Hohenschönhausen Süd,3
+Neu Lichtenberg,3
+Rummelsburger Bucht,3
+Biesdorf,4
+Hellersdorf-Nord,4
+Hellersdorf-Ost,4
+Hellersdorf-Süd,4
+Kaulsdorf,4
+Mahlsdorf,4
+Marzahn-Mitte,4
+Marzahn-Nord,4
+Marzahn-Süd,4
+Alexanderplatz,5
+Brunnenstr. Nord,5
+Brunnenstr. Süd,5
+Moabit Ost,5
+Moabit West,5
+Osloer Straße,5
+Parkviertel,5
+Regierungsviertel,5
+Tiergarten Süd,5
+Wedding Zentrum,5
+Britz,6
+Buckow,6
+Buckow Nord,6
+Gropiusstadt,6
+Köllnische Heide,6
+Neuköllner Mitte/Zentrum,6
+Reuterstraße,6
+Rixdorf,6
+Rudow,6
+Schillerpromenade,6
+Blankenburg/Heinersdorf/Märchenland,7
+Blankenfelde/Niederschönhausen,7
+Buch,7
+Buchholz,7
+Helmholtzplatz,7
+Karow,7
+Pankow Süd,7
+Pankow Zentrum,7
+Prenzlauer Berg Nord,7
+Prenzlauer Berg Nordwest,7
+Prenzlauer Berg Ost,7
+Prenzlauer Berg Süd,7
+Prenzlauer Berg Südwest,7
+Schönholz/Wilhelmsruh/Rosenthal,7
+Weißensee,7
+Weißensee Ost,7
+MV 1,8
+MV 2,8
+Nord 1,8
+Nord 2,8
+Ost 1,8
+Ost 2,8
+West 1,8
+West 2,8
+West 3,8
+West 4,8
+West 5,8
+Brunsbütteler Damm,9
+Falkenhagener Feld,9
+Gatow / Kladow,9
+Hakenfelde,9
+Haselhorst,9
+Heerstraße Nord,9
+Siemensstadt,9
+Spandau Mitte,9
+Wilhelmstadt,9
+Albrechtstr.,10
+Drakestr.,10
+Lankwitz,10
+Ostpreußendamm,10
+Schloßstr.,10
+Teltower Damm,10
+Zehlendorf  Nord,10
+Zehlendorf Nord,10
+Zehlendorf  Südwest,10
+Zehlendorf Südwest,10
+Friedenau,11
+Lichtenrade,11
+Mariendorf,11
+Marienfelde,11
+Schöneberg-Nord,11
+Schöneberg-Süd,11
+Tempelhof,11
+Adlershof,12
+Allende-Viertel,12
+Altglienicke,12
+Altstadt-Kietz,12
+Alt  Treptow,12
+Alt Treptow,12
+Baumschulenweg,12
+Bohnsdorf,12
+Dammvorstadt,12
+Friedrichshagen,12
+Grünau,12
+Johannisthal,12
+Kölln. Vorstadt/Spindlersf.,12
+Köpenick-Nord,12
+Köpenick-Süd,12
+Müggelheim,12
+Niederschöneweide,12
+Oberschöneweide,12
+Plänterwald,12
+Rahnsdorf/Hessenwinkel,12
+Schmöckwitz/Karolinenhof/Rauchfangswerder,12
+Acacias,1
+Atocha,1
+Chopera,1
+Delicias,1
+Imperial,1
+Legazpi,1
+Palos de Moguer,1
+Aeropuerto,2
+Alameda de Osuna,2
+Casco Histórico de Barajas,2
+Corralejos,2
+Timón,2
+Abrantes,3
+Buenavista,3
+Comillas,3
+Opañel,3
+Puerta Bonita,3
+San Isidro,3
+Vista Alegre,3
+Cortes,4
+Embajadores,4
+Justicia,4
+Palacio,4
+Sol,4
+Universidad,4
+Castilla,5
+Ciudad Jardín,5
+El Viso,5
+Hispanoamérica,5
+Nueva España,5
+Prosperidad,5
+Almagro,6
+Arapiles,6
+Gaztambide,6
+Rios Rosas,6
+Trafalgar,6
+Vallehermoso,6
+Atalaya,7
+Colina,7
+Concepción,7
+Costillares,7
+Pueblo Nuevo,7
+Quintana,7
+San Juan Bautista,7
+San Pascual,7
+Ventas,7
+El Goloso,8
+El Pardo,8
+Fuentelareina,8
+La Paz,8
+Mirasierra,8
+Peñagrande,8
+Pilar,8
+Valverde,8
+Apostol Santiago,9
+Canillas,9
+Palomas,9
+Pinar del Rey,9
+Piovera,9
+Valdefuentes,9
+Aguilas,10
+Aluche,10
+Campamento,10
+Cármenes,10
+Cuatro Vientos,10
+Lucero,10
+Puerta del Angel,10
+Aravaca,11
+Argüelles,11
+Casa de Campo,11
+Ciudad Universitaria,11
+El Plantío,11
+Valdemarín,11
+Valdezarza,11
+Fontarrón,12
+Horcajo,12
+Marroquina,12
+Media Legua,12
+Pavones,12
+Vinateros,12
+Entrevías,13
+Numancia,13
+Palomeras Bajas,13
+Palomeras Sureste,13
+Portazgo,13
+San Diego,13
+Adelfas,14
+Estrella,14
+Ibiza,14
+Jerónimos,14
+Niño Jesús,14
+Pacífico,14
+Castellana,15
+Fuente del Berro,15
+Goya,15
+Guindalera,15
+Lista,15
+Recoletos,15
+Amposta,16
+Arcos,16
+Canillejas,16
+Hellín,16
+Rejas,16
+Rosas,16
+Salvador,16
+Simancas,16
+Almenara,17
+Bellas Vistas,17
+Berruguete,17
+Castillejos,17
+Cuatro Caminos,17
+Valdeacederas,17
+Almendrales,18
+Moscardó,18
+Orcasitas,18
+Orcasur,18
+Pradolongo,18
+San Fermín,18
+Zofío,18
+Ambroz,19
+Casco Histórico de Vicálvaro,19
+Casco Histórico de Vallecas,20
+Santa Eugenia,20
+Butarque,21
+Los Angeles,21
+Los Rosales,21
+San Andrés,21
+San Cristobal,21
+Batignolles-Monceau,1
+Bourse,2
+Buttes-Chaumont,3
+Buttes-Montmartre,4
+Élysée,5
+Entrepôt,6
+Gobelins,7
+Hôtel-de-Ville,8
+Louvre,9
+Luxembourg,10
+Ménilmontant,11
+Observatoire,12
+Opéra,13
+Palais-Bourbon,14
+Panthéon,15
+Passy,16
+Popincourt,17
+Reuilly,18
+Temple,19
+Vaugirard,20
+I Centro Storico,1
+III Monte Sacro,2
+II Parioli/Nomentano,3
+IV Tiburtina,4
+IX Eur,5
+VIII Appia Antica,6
+VII San Giovanni/Cinecittà,7
+VI Roma delle Torri,8
+V Prenestino/Centocelle,9
+XI Arvalia/Portuense,10
+XIII Aurelia,11
+XII Monte Verde,12
+XIV Monte Mario,13
+X Ostia/Acilia,14
+XV Cassia/Flaminia,15
+Alsergrund,1
+Brigittenau,2
+Dbling,3
+Donaustadt,4
+Favoriten,5
+Floridsdorf,6
+Hernals,7
+Hietzing,8
+Innere Stadt,9
+Josefstadt,10
+Landstra§e,11
+Leopoldstadt,12
+Liesing,13
+Margareten,14
+Mariahilf,15
+Meidling,16
+Neubau,17
+Ottakring,18
+Penzing,19
+Rudolfsheim-Fnfhaus,20
+Simmering,21
+Whring,22
+Wieden,23
+None,0
