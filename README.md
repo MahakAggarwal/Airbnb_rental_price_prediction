@@ -13,9 +13,6 @@
 * __Font__: Times new roman, 12pt
 * __Number of pages__: 17 pages
 
-### Code repository
-The code is available at: []().
-
 ### Python libraries used
 * Geopandas
 * Geopy
