@@ -1,6 +1,5 @@
-# Case studies in machine learning final project
+# Airbnb rental price prediction across European cities
 
-* __Title__: Airbnb rental price prediction across European cities
 * __Author name__: Mahak Aggarwal
 * __Email__: mahakagg@utexas.edu
 
