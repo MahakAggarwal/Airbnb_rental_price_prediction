@@ -2,6 +2,7 @@
 
 * __Author name__: Mahak Aggarwal
 * __Email__: mahakagg@utexas.edu
+* __Report__: [available here](https://github.com/MahakAggarwal/Airbnb_rental_price_prediction/blob/main/Airbnb%20report.pdf)
 
 ### Paper details
 
