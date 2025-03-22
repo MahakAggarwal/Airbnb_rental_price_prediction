@@ -126,7 +126,7 @@ While XGBoost doesn’t require feature scaling, FFNNs are sensitive to scaling,
 ### Metrics
 3 metrics were used to analyze the regression results: mean squared error, root of mean square error, and $R^2$ score.
 
-As per Chicco et al. (2021) and Chai and Draxler (2014), mean squared error (MSE) calculates the average of the squared values of the difference between the actual value (label) and the predicted value. In the equation given below, $n$ is the number of data points, $Y$ is the array/vector of actual values (labels), $\hat{Y}$ is the array/vector of predicted values.
+As per Chicco et al. (2021) and Chai and Draxler (2014), mean squared error (MSE) calculates the average of the squared values of the difference between the actual value (label) and the predicted value. In the equation given below, $n$ is the number of data points, $Y$ is the array/vector of actual values (labels), $\hat{Y}$ is the array/vector of predicted values. $$MSE & = \frac{1}{n}\sum_{i = 1}^{n} \left( Y_i  - \hat{Y_i}\right)^2$$
 
 ```math
 MSE & = \frac{1}{n}\sum_{i = 1}^{n} \left( Y_i  - \hat{Y_i}\right)^2
