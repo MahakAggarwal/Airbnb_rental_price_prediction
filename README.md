@@ -128,9 +128,10 @@ While XGBoost doesn’t require feature scaling, FFNNs are sensitive to scaling,
 
 As per Chicco et al. (2021) and Chai and Draxler (2014), mean squared error (MSE) calculates the average of the squared values of the difference between the actual value (label) and the predicted value. In the equation given below, $n$ is the number of data points, $Y$ is the array/vector of actual values (labels), $\hat{Y}$ is the array/vector of predicted values.
 
-```math
+$$
 MSE = \frac{1}{n}\sum_{i = 1}^{n} \left( Y_i  - \hat{Y_i}\right)^2
-```
+$$
+
 Lower MSE values indicate a good prediction model, whereas higher values indicate a poor predictor. The best possible MSE value that can be achieved is 0. Since MSE squares the errors, the value can seem magnified. To counter this, another metric called the root of mean squared error (RMSE) is also widely used to quantify regression models (Chai & Draxler, 2014). Given the similar mathematical notation as mentioned above, RMSE is calculated as:
 
 ```math
