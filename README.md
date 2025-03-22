@@ -141,11 +141,10 @@ $$
 
 Typically, RMSE is a better error quantifier than MSE and other regression metrics such as mean absolute error (Chai & Draxler, 2014). Similar to MSE, lower values indicate a good predictor whereas higher values indicate a poor one. According to Chicco et al. (2021), a third metric, the $R^2$ score, also called the coefficient of determination, quantifies how the independent variables (features of the dataset) explain the variance in the dependent variable (the label, or in this case, the price) is widely used for regression models. The below equations show how $R^2$ is calculated where $\bar{Y}$ is the mean of actual values (labels) and MST refers to the mean total sum of squares.
 
-```math
-\bar{Y} = \frac{1}{n}\sum_{i = 1}^{n} Y_i                            \\
-        MST     = \frac{1}{n}\sum_{i = 1}^{n} \left( Y_i - \bar{Y} \right)^2 \\
-        R^2     = 1 - \frac{MSE}{MST}
-```
+$$ \bar{Y} = \frac{1}{n}\sum_{i = 1}^{n} Y_i $$
+$$ MST = \frac{1}{n}\sum_{i = 1}^{n} \left( Y_i - \bar{Y} \right)^2 $$
+$$ R^2 = 1 - \frac{MSE}{MST} $$
+
 A value of 1 indicates perfect prediction, whereas lower values indicate inaccurate predictions. All 3 metrics have their advantages and limitations, and therefore they are used together to analyze the performance of regression models Chicco et al. (2021).
 
 ## Results
