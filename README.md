@@ -1,7 +1,7 @@
 # Airbnb rental price prediction across European cities
 
-By Mahak Aggarwal
-mahakagg@utexas.edu
+By Mahak Aggarwal\
+mahakagg@utexas.edu\
 The University of Texas at Austin
 
 ## Abstract
